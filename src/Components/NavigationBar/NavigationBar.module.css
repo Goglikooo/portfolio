@@ -1,0 +1,15 @@
+.navigation {
+  float: left;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 10px;
+  list-style-type: none;
+  font-size: 1.5rem;
+  margin-top: 10px;
+  /* border: 1px solid black; */
+  /* padding: 10px; */
+
+  font-weight: 600;
+  font-family: "Press Start 2P", cursive;
+}

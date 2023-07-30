@@ -1,0 +1,41 @@
+.project {
+  text-align: center;
+}
+
+.border {
+  margin: 0 auto;
+  width: 600px;
+  margin-top: 1.2rem;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #fbdb93;
+  border: 1px solid black;
+}
+.projectCard {
+  background-color: #ffa5c9;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.linkIcons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 0.5rem;
+  background-color: #c0d85c;
+  border-top: 1px solid black;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.cardIcon {
+  max-width: 30px;
+}
+
+.projectPic {
+  padding: 20px 20px 0.5rem 20px;
+  max-width: 400px;
+  height: 250px;
+  border-radius: 30px;
+}

@@ -1,0 +1,56 @@
+.icon {
+  max-width: 150px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.cardHead {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: #b68bc1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px;
+}
+
+.title {
+  font-family: "Press Start 2P", cursive;
+}
+
+.circles {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+}
+
+.circle1 {
+  height: 10px;
+  width: 10px;
+  background-color: #db9ac5;
+  border-radius: 50%;
+  border: 1px solid rgb(83, 83, 83);
+}
+
+.circle2 {
+  height: 10px;
+  width: 10px;
+  background-color: #fad998;
+  border-radius: 50%;
+  border: 1px solid rgb(83, 83, 83);
+}
+.circle3 {
+  height: 10px;
+  width: 10px;
+  background-color: #bacd59;
+  border-radius: 50%;
+  border: 1px solid rgb(83, 83, 83);
+}
